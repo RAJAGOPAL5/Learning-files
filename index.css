@@ -1,22 +1,23 @@
 body{
-    color: darkseagreen;
-}
-input{
-    width: 100%;
-    height: 20px;
-    padding-left: 10px;
-    padding-right: 10px;
-    box-sizing: border-box;
-    border: 1px solid rgb(12, 12, 12);
-}
-
-#box{
-    cursor: pointer;
-    background: darkcyan;
-    padding: 40px;
-    width: 200px;
+    background-color: darkolivegreen;
+    color:aliceblue;
     text-align: center;
-    margin: 20px auto;
-    color: white;
+    margin-top: 100px;
+    background-size: cover;
     font-weight: bold;
+}
+h1{
+    color:darkgoldenrod;
+}
+#message {
+    font-style: italic;
+}
+.button{
+    background-color: darkgoldenrod;
+    color:aliceblue;
+    width: 200px;
+    font-weight: bolder;
+    height: 60px;
+        /* margin-bottom: 5px; */
+    border-radius: 35px;
 }
